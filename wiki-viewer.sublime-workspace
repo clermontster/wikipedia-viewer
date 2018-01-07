@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contact",
+				"scrollContact"
+			],
+			[
+				"add",
+				"addBodyClass"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"shared",
+				"sharedContent"
+			],
+			[
+				"webpack-dev-",
+				"webpack-dev-server"
+			],
+			[
+				"webpack",
+				"webpack-dev-server"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"sass",
+				"sassExtract"
+			],
+			[
+				"bookR",
+				"bookReviews"
+			],
+			[
+				"webpac",
+				"webpack-dev-server"
+			],
+			[
+				"pug",
+				"pug-html-loader"
+			],
+			[
+				"get",
+				"getRoutesContent"
+			],
+			[
+				"cr",
+				"createFilenames"
+			],
+			[
+				"program-",
+				"program-format"
+			],
+			[
+				"book",
+				"bookPageContent"
+			],
+			[
+				"about",
+				"aboutPageContent"
+			],
+			[
+				"Nor",
+				"Nördstrom"
+			],
+			[
+				"home",
+				"homePageContent"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"formt",
+				"formatImages"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"bo",
+				"body-parser"
+			],
+			[
+				"query",
+				"QUERY_PREFIX"
+			],
+			[
+				"custome",
+				"CUSTOM_SEARCH_ID"
+			],
+			[
+				"Event",
+				"EventEmitter"
+			],
+			[
+				"write",
+				"writeWaitingPercent"
+			],
+			[
+				"extrac",
+				"extractSass"
+			],
+			[
+				"server",
+				"serverConfig"
+			],
+			[
+				"Html",
+				"HtmlWebpackPluginConfig"
+			],
+			[
+				"prop",
+				"proptypes"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"store",
+				"storeSchema"
+			],
+			[
+				"print",
+				"printInTwoSeconds"
+			],
+			[
+				"en",
+				"encrypted"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"mas",
+				"master_password"
+			],
+			[
+				"getA",
+				"getAccounts"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"sec",
+				"secretMesssage"
+			],
+			[
+				"face",
+				"facebookAccount"
+			],
+			[
+				"match",
+				"matchedAccount"
+			],
+			[
+				"nod",
+				"node_modules"
+			],
+			[
+				"n",
+				"NavLink"
+			],
+			[
+				"blue",
+				"blue-text"
+			],
+			[
+				"mich",
+				"michelleRogersPritzl-ratioOfWhatisRememberedtoWhatIsReproduced2012"
+			],
+			[
+				"Michell",
+				"michelleRogersPritzl-ratioOfWhatisRememberedtoWhatIsReproduced2012"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"React",
+				"ReactComponent"
+			],
+			[
+				"Dom",
+				"DOMNode"
+			],
+			[
+				"comop",
+				"component"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"handleCarouselClick",
+				"handleCarouselClickNext"
+			],
+			[
+				"carousel",
+				"carousel-next"
+			],
+			[
+				"on",
+				"onCLickNext"
+			],
+			[
+				"go",
+				"goToNextSlide"
+			],
+			[
+				"prev",
+				"PREV"
+			],
+			[
+				"got",
+				"goToNextSlide"
+			],
+			[
+				"carou",
+				"carousel-prev"
+			],
+			[
+				"lef",
+				"carouselNav-left-btn"
+			],
+			[
+				"js",
+				"js-carousel"
+			],
+			[
+				"carous",
+				"carouselNav-left-btn"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"th",
+				"third"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"remove",
+				"removeGreen"
+			],
+			[
+				"adjust",
+				"adjustTimer"
+			],
+			[
+				"block",
+				"blockquote\tTag"
+			],
+			[
+				"num",
+				"numArray"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"LOAL",
+				"localWeather"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"which",
+				"whichNav"
+			],
+			[
+				"window",
+				"windowSize"
+			],
+			[
+				"resize",
+				"resizeTimer"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"d",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 505.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"ls -la",
+			"node",
+			"pwd",
+			"node ch3_node_core",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jonnie/Sites/wikipedia-viewer"
+	],
+	"file_history":
+	[
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_footer.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/webpack.common.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/js/contactScroll.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/package.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_header.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/Menu.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/app.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/js/menu.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/ReviewItem.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/home.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/Header.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_default.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/home.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/PageDefault.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/Link.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_imageGrid.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/ImageGrid.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/Image.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/shared.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/Footer.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/mixins/_menu.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/pages/about.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/book.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/course-descriptions.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/program-format.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/reviews.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/teaching.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/webpack.config.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_about.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/main.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/index.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/index.html",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/html-webpack-plugin/default_index.ejs",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/pug-html-loader/lib/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/teaching.html",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/index.html",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/book.html",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/shared/default.scss",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/style.css",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/bookReviews.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/about.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/about.html",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/about.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/styles/views/_about.css",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/home.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/book.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/teaching.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/artwork.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/routes/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/book/reviews.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/shared/PageTitle.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/faculty-bios.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/visiting-artists-bios.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/teaching.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/course-descriptions.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/program-format.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/teaching/program-overview.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/views/teaching/CourseDescription.pug",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/about.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/book/book.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/artwork/artwork.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/dist/bundle.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/package-lock.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/src/content/book/what_people_are_saying.json",
+		"/Users/Jonnie/Sites/cj-studio-redesign/.gitignore",
+		"/Users/Jonnie/Sites/cj-studio-redesign/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/babel-preset-env/README.md",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/babel-preset-env/lib/default-includes.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/babel-preset-env/lib/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/node_modules/babel-cli/index.js",
+		"/Users/Jonnie/Sites/cj-studio-redesign/.babelrc",
+		"/Users/Jonnie/Sites/fcc-voting-app/package.json",
+		"/Users/Jonnie/Sites/fcc-voting-app/index.js",
+		"/Users/Jonnie/Sites/url-shortener/index.js",
+		"/Users/Jonnie/Sites/url-shortener/routes/newRoute.js",
+		"/Users/Jonnie/Sites/fcc-voting-app/routes/index.js",
+		"/Users/Jonnie/Sites/file-metadata/index.js",
+		"/Users/Jonnie/Sites/file-metadata/package.json",
+		"/Users/Jonnie/Sites/file-metadata/public/index.html",
+		"/Users/Jonnie/Sites/file-metadata/.gitignore",
+		"/Users/Jonnie/Sites/url-shortener/.gitignore",
+		"/Users/Jonnie/Sites/url-shortener/package.json",
+		"/Users/Jonnie/Sites/url-shortener/routes/indexRoute.js",
+		"/Users/Jonnie/Sites/url-shortener/new.js",
+		"/Users/Jonnie/Sites/request-header/index.js",
+		"/Users/Jonnie/Sites/request-header/package.json",
+		"/Users/Jonnie/Sites/request-header/.gitignore",
+		"/Users/Jonnie/Sites/timestamp-app/src/index.js",
+		"/Users/Jonnie/Sites/timestamp-app/Todo.md",
+		"/Users/Jonnie/Sites/timestamp-app/package.json",
+		"/Users/Jonnie/Sites/timestamp-app/index.js",
+		"/Users/Jonnie/Sites/timestamp-app/Procfile",
+		"/Users/Jonnie/Sites/timestamp-app/.gitignore",
+		"/Users/Jonnie/Sites/lynda-node/public/socketio/js/main.js",
+		"/Users/Jonnie/Sites/lynda-node/public/socketio/sio-server.js",
+		"/Users/Jonnie/Sites/lynda-node/realtime_web/ch1_storage_api_md",
+		"/Users/Jonnie/Sites/lynda-node/realtime_web/ch1_canvas_api.md",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/ws.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/ws-client.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/package.json",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/js/dictionary.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch8/index.html",
+		"/Users/Jonnie/Sites/lynda-node/ch8_intro_to_express.js",
+		"/Users/Jonnie/Sites/lynda-node/ch9_web_sockets.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch09/09_01/finished/ws-client.js",
+		"/Users/Jonnie/Sites/lynda-node/package.json",
+		"/Users/Jonnie/Sites/lynda-node/public/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/style.css",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_04/finished/public/js/dictionary.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_04/finished/public/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/js/jquery.min.js",
+		"/Users/Jonnie/Sites/lynda-node/ch6_request.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_02/finished/package.json",
+		"/Users/Jonnie/Sites/lynda-node/ch5_streams.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_write_streams.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_remove_directory.js",
+		"/Users/Jonnie/Sites/lynda-node/assets/logs/logA.md",
+		"/Users/Jonnie/Sites/lynda-node/assets/logs/logB.md",
+		"/Users/Jonnie/Sites/lynda-node/ch5_reading_files.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_directory.js",
+		"/Users/Jonnie/Sites/lynda-node/rename.js",
+		"/Users/Jonnie/Sites/lynda-node/remove.js",
+		"/Users/Jonnie/Sites/lynda-node/lib/config.json",
+		"/Users/Jonnie/Sites/lynda-node/lib/notes.md",
+		"/Users/Jonnie/Sites/lynda-node/lib/config.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wiki-viewer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"christopherjames-studio.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/event-finder/event-finder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
