@@ -7,9 +7,28 @@ const qs = require('qs');
  */
 function displaySearchResults(data) {
   const results = document.querySelector('.results');
-  const p = document.createElement('p');
-  p.innerHTML = data;   
-  results.append(p);
+  if (data.query && data.query.pages.length) {
+    const ul = document.createElement('ul');
+
+    data.query.pages.forEach(function(page) {
+      const li = document.createElement('li');
+      const title = document.createElement('h3');
+      const desc = document.createElement('div');
+      const link = document.createElement('a');
+      link.href= `https://en.wikipedia.org?curid=${page.pageid}`;
+      link.target = '_blank';
+      title.innerHTML = page.title;
+      desc.innerHTML = page.extract;
+      link.append(title);
+      link.append(desc);
+      li.append(link);   
+      ul.append(li);
+    });
+    return results.append(ul);  
+  }
+  const h1 = document.createElement('h1');
+  h1.innerHTML = "No Results Found";
+  return results.append(h1);
 }
 
 function displaySearchResult(data) {
@@ -27,12 +46,25 @@ function requestArticles(uri, options, cb) {
   return fetch(uri, options)
     .then(function(res) {
       if (res.status >= 200 || res.status < 300) {
+        return res.json();
+      }
+      throw Error(res.statusText);
+    })
+    .then(function(data){
+      cb(data);
+      return data;
+    });
+}
+
+function requestArticle(uri, options, cb) {
+  return fetch(uri, options)
+    .then(function(res) {
+      if (res.status >= 200 || res.status < 300) {
         return res.text();
       }
       throw Error(res.statusText);
     })
     .then(function(data){
-      console.log(data);
       cb(data);
       return data;
     });
@@ -54,14 +86,13 @@ function parseQueryString(qs) {
 }
 
 /**
- * [requestWikiArticles description]
- * https://en.wikipedia.org/api/rest_v1/
+ * Request Multiple articles that match the search query
+ * https://stackoverflow.com/questions/44794197/how-to-return-more-than-one-search-results-by-wikipedia-api
  * @return {[type]} [description]
  */
-function requestWikiArticle() {
-  
-  const query = window.location.search;
-  console.log('query', query);
+function requestWikiArticles() {
+  const query = window.location.search.replace('query=', '').replace('+','_');
+
   if (query) {
     const queryParams = {
       action: 'query',
@@ -69,15 +100,16 @@ function requestWikiArticle() {
       prop: 'extracts',
       exintro: true, 
       exlimit: 20,
+      explaintext: true,
+      exsentences: 1,
       format: 'json',
       formatversion: 2,
       generator: 'search',
       gsrsearch: `${query}`,
       gsrnamespace: 0,
-      gsrlimit: 5
-
+      gsrlimit: 10
     };
-    const endpoint = `https://en.wikipedia.org/w/api.php?${queryParams}`;
+    const endpoint = `https://en.wikipedia.org/w/api.php?${qs.stringify(queryParams)}`;
     const options = { 
       method: 'GET',
       mode: 'cors',
@@ -87,32 +119,22 @@ function requestWikiArticle() {
 }
 
 /**
- * Request Multiple articles that match the search query
+ * Request single wikipedia article using rest api
+ * https://en.wikipedia.org/api/rest_v1/
  * @return {array} list of articles
  */
-function requestWikiArticles() {
+function requestWikiArticle() {
   const query = parseQueryString(window.location.search);
-  console.log('query', query);
   if (query) {
-    const queryParams = {
-      action: 'query',
-      origin: '*', 
-      prop: 'extracts',
-      exintro: true, 
-      exlimit: 20,
-      list: 'search',
-      format: 'json',
-      formatversion: 2,
-    };
-    const endpoint = `https://en.wikipedia.org/w/api.php?${qs.stringify(queryParams)}`;
+    const endpoint = `https://en.wikipedia.org/api/rest_v1/page/html/${query}`;
     const options = { 
       method: 'GET',
       mode: 'cors',
     };
-   requestArticles(endpoint, options, displaySearchResult);  
+   requestArticle(endpoint, options, displaySearchResult);  
   }
 }
 
 const form = document.querySelector('form');
-form.addEventListener('submit', requestWikiArticle());
+form.addEventListener('submit', requestWikiArticles());
 
