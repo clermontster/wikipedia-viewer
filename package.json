@@ -9,7 +9,6 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
-    "postinstall": "npm install",
     "start": "npm run build -p && node server.js"
   },
   "keywords": [],
